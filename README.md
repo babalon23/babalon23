@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @babalon23
-- 👀 I’m interested in ...tehnology and okultyst
+- 👀 I’m interested in ...tehnology and okultyzmem
 - 🌱 I’m currently learning ...life
 
 
