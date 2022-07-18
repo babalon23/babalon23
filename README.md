@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @babalon23
 - 👀 I’m interested in ...tehnology and okultyzmem
-- 🌱 I’m currently learning ...life
+- 🌱 I’m currently learning ..Fizyka kwantowa, programowanie
+Wszystkim.
 
 
 <!---
